@@ -7,7 +7,7 @@ public class Main {
         int faltas ;
         boolean comportamento;
         String opcao="BOSCH";
-
+"Love"
         while (!opcao.equalsIgnoreCase("sair")) {
             try {
                 System.out.println("Insira a média do aluno: [0-10]");
