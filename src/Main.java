@@ -8,6 +8,13 @@ public class Main {
         boolean comportamento;
         String opcao="BOSCH";
 "Love"
+
+
+
+
+
+        "Love"
+
         while (!opcao.equalsIgnoreCase("sair")) {
             try {
                 System.out.println("Insira a média do aluno: [0-10]");
